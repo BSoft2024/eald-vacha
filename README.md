@@ -21,6 +21,6 @@ Full license text: https://creativecommons.org/licenses/by/4.0/
 
 ## More about Eald-vacha
 
-For grammar, phonology, basic vocabulary, and an introduction to the language, please check out the free **Eald-vacha Primer** (link coming soon / available at [brantvongoble.com]).
+For grammar, phonology, basic vocabulary, and an introduction to the language, please check out the free **Eald-vacha Primer** (available at [brantvongoble.com]).
 
 Happy conlanging! ✍️
